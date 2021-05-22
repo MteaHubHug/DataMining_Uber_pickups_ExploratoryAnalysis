@@ -1,4 +1,6 @@
-# DataMining_Uber_pickups_ExploratoryAnalysis
+# DataMining
+#Uber pickups - ExploratoryAnalysis
+# Predicting Stock Prices with ARIMA
 Data Mining project  about :
 Uber Pickups in NYC from April to September 2014 (dataset from Kaggle) written in R program language +
 Predicting Stock prices (TESLA) with ARIMA.
